@@ -3,7 +3,7 @@ Bootleggers ROM | 8.1 Sources
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/BootleggersROM/manifest.git -b oreo.1
+	repo init -u https://github.com/Bootleggers1/manifest.git -b bl
 
 Then, be sure to add your device manifest in your local_manifests folder and finally, do:
 
