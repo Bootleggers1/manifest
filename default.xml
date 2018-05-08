@@ -530,5 +530,7 @@
 
   <!-- GZOSP CAF manifest -->
   <include name="caf_default.xml" />
+  
+  <include name="rom.xml" />
 
 </manifest>
