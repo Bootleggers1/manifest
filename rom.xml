@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- trees -->
+  <project name="Bootleggers1/device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="mine" revision="bl" />
+  <project name="BirdSanctuary/kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" remote="mine" revision="oreo-mr1-rebase" />
+  <project name="BirdSanctuary/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="mine" revision="oreo-mr1-rebase" />
+  <project name="BirdSanctuary/device_xiaomi_msm8956-common" path="device/xiaomi/msm8956-common" remote="mine" revision="oreo-mr1-rebase" />
 
+ <!-- hals -->
+  <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8952" remote="mine" revision="lineage-15.1-caf-8952" />
+  <project name="LineageOS/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8952" remote="mine" revision="lineage-15.1-caf-8952" />
+  <project name="LineageOS/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8952" remote="mine" revision="lineage-15.1-caf-8952" />
+</manifest>                                                                                                                                                                                                                                                                                                
