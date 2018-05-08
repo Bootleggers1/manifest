@@ -26,8 +26,8 @@
            sync-j="8" />
 
   <!-- GZOSP -->
-  <project path="manifest" name="manifest" remote="gzosp" />
-  <project path="build/make" name="build" remote="bootleg" >
+  <project path="manifest" name="Bootleggers1/manifest" remote="mine" revision="bl" />
+  <project path="build/make" name="Bootleggers1/build" remote="mine" revision="bl" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
